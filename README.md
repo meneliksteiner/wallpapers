@@ -15,6 +15,8 @@ A collection of desktop wallpapers, sorted into `light/` and `dark/` to match a 
 <a href="light/2026-09-24-08.png" target="_blank"><img src="light/2026-09-24-08.png" alt="2026-09-24-08" title="2026-09-24-08" width="32%"></a>
 <a href="light/2026-09-24-21.jpg" target="_blank"><img src="light/2026-09-24-21.jpg" alt="2026-09-24-21" title="2026-09-24-21" width="32%"></a>
 <a href="light/2026-09-24-22.png" target="_blank"><img src="light/2026-09-24-22.png" alt="2026-09-24-22" title="2026-09-24-22" width="32%"></a>
+<a href="light/2026-10-23-03.jpg" target="_blank"><img src="light/2026-10-23-03.jpg" alt="2026-10-23-03" title="2026-10-23-03" width="32%"></a>
+<a href="light/2026-10-23-06.jpg" target="_blank"><img src="light/2026-10-23-06.jpg" alt="2026-10-23-06" title="2026-10-23-06" width="32%"></a>
 
 ## Dark
 
@@ -57,6 +59,10 @@ A collection of desktop wallpapers, sorted into `light/` and `dark/` to match a 
 <a href="dark/2026-09-24-18.jpg" target="_blank"><img src="dark/2026-09-24-18.jpg" alt="2026-09-24-18" title="2026-09-24-18" width="32%"></a>
 <a href="dark/2026-09-24-19.png" target="_blank"><img src="dark/2026-09-24-19.png" alt="2026-09-24-19" title="2026-09-24-19" width="32%"></a>
 <a href="dark/2026-09-24-20.png" target="_blank"><img src="dark/2026-09-24-20.png" alt="2026-09-24-20" title="2026-09-24-20" width="32%"></a>
+<a href="dark/2026-10-23-01.jpg" target="_blank"><img src="dark/2026-10-23-01.jpg" alt="2026-10-23-01" title="2026-10-23-01" width="32%"></a>
+<a href="dark/2026-10-23-02.jpg" target="_blank"><img src="dark/2026-10-23-02.jpg" alt="2026-10-23-02" title="2026-10-23-02" width="32%"></a>
+<a href="dark/2026-10-23-04.jpg" target="_blank"><img src="dark/2026-10-23-04.jpg" alt="2026-10-23-04" title="2026-10-23-04" width="32%"></a>
+<a href="dark/2026-10-23-05.jpg" target="_blank"><img src="dark/2026-10-23-05.jpg" alt="2026-10-23-05" title="2026-10-23-05" width="32%"></a>
 
 ## Credits
 
@@ -95,5 +101,11 @@ Artists and sources, where known. Images not listed here are by unknown artists.
 | `dark/2026-09-24-20.png` | [wallhaven ly3x32](https://wallhaven.cc/w/ly3x32) |
 | `light/2026-09-24-21.jpg` | [wallhaven po9yl9](https://wallhaven.cc/w/po9yl9) |
 | `light/2026-09-24-22.png` | [wallhaven zppl1v](https://wallhaven.cc/w/zppl1v) |
+| `dark/2026-10-23-01.jpg` | dzo |
+| `dark/2026-10-23-02.jpg` | Oxana Golubets |
+| `light/2026-10-23-03.jpg` | Plufow Le Studio |
+| `dark/2026-10-23-04.jpg` | [wallhaven qrp5xd](https://wallhaven.cc/w/qrp5xd) |
+| `dark/2026-10-23-05.jpg` | [wallhaven vp22dm](https://wallhaven.cc/w/vp22dm) |
+| `light/2026-10-23-06.jpg` | [wallhaven zpvdzv](https://wallhaven.cc/w/zpvdzv) |
 
 If you are the creator of one of these images and would like it credited differently or removed, please open an issue.
