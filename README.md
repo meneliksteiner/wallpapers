@@ -63,6 +63,7 @@ A collection of desktop wallpapers, sorted into `light/` and `dark/` to match a 
 <a href="dark/2026-10-23-02.jpg" target="_blank"><img src="dark/2026-10-23-02.jpg" alt="2026-10-23-02" title="2026-10-23-02" width="32%"></a>
 <a href="dark/2026-10-23-04.jpg" target="_blank"><img src="dark/2026-10-23-04.jpg" alt="2026-10-23-04" title="2026-10-23-04" width="32%"></a>
 <a href="dark/2026-10-23-05.jpg" target="_blank"><img src="dark/2026-10-23-05.jpg" alt="2026-10-23-05" title="2026-10-23-05" width="32%"></a>
+<a href="dark/2026-11-07-01.jpg" target="_blank"><img src="dark/2026-11-07-01.jpg" alt="2026-11-07-01" title="2026-11-07-01" width="32%"></a>
 
 ## Credits
 
@@ -107,5 +108,6 @@ Artists and sources, where known. Images not listed here are by unknown artists.
 | `dark/2026-10-23-04.jpg` | [wallhaven qrp5xd](https://wallhaven.cc/w/qrp5xd) |
 | `dark/2026-10-23-05.jpg` | [wallhaven vp22dm](https://wallhaven.cc/w/vp22dm) |
 | `light/2026-10-23-06.jpg` | [wallhaven zpvdzv](https://wallhaven.cc/w/zpvdzv) |
+| `dark/2026-11-07-01.jpg` | Martin Martz |
 
 If you are the creator of one of these images and would like it credited differently or removed, please open an issue.
